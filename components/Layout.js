@@ -9,7 +9,7 @@ const Layout = ({ children }) => (
     <Head>
       <title>Zillow | Find your Next Property</title>
     </Head>
-    <Box maxWidth='1280px' m='auto'>
+    <Box maxWidth='1360px' m='auto'>
       <header>
         <Navbar />
       </header>
